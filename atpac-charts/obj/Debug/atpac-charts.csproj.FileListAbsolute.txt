@@ -1,0 +1,6 @@
+C:\Development\AT-PAC\atpac-charts\atpac-charts\bin\atpac-charts.dll.config
+C:\Development\AT-PAC\atpac-charts\atpac-charts\bin\atpac-charts.dll
+C:\Development\AT-PAC\atpac-charts\atpac-charts\bin\atpac-charts.pdb
+C:\Development\AT-PAC\atpac-charts\atpac-charts\obj\Debug\atpac-charts.csprojResolveAssemblyReference.cache
+C:\Development\AT-PAC\atpac-charts\atpac-charts\obj\Debug\atpac-charts.dll
+C:\Development\AT-PAC\atpac-charts\atpac-charts\obj\Debug\atpac-charts.pdb
